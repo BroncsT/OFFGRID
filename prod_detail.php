@@ -259,7 +259,7 @@ $select_products = mysqli_query($conn, "SELECT * FROM `products`") or die('query
                 <form action="" method="post">
                     <label for="size">Size:</label>
                     <select name="size" id="size" required>
-                        <option value="small">Small</option>
+                        <option value="small">Tiny</option>
                         <option value="medium">Mediums</option>
                         <option value="large">Large</option>
                     </select>
