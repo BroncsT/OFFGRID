@@ -260,7 +260,7 @@ $select_products = mysqli_query($conn, "SELECT * FROM `products`") or die('query
                     <label for="size">Size:</label>
                     <select name="size" id="size" required>
                         <option value="small">Small</option>
-                        <option value="medium">Medium</option>
+                        <option value="medium">Mediums</option>
                         <option value="large">Large</option>
                     </select>
 
