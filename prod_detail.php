@@ -101,8 +101,8 @@ $select_products = mysqli_query($conn, "SELECT * FROM `products`") or die('query
             padding: 20px;
         }
 
-        .product-info {
-            display: flex;
+        .product-info { 
+            display: flex; 
             justify-content: space-between;
             align-items: flex-start;
             gap: 30px;

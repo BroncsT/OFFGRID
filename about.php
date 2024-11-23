@@ -47,7 +47,7 @@ if(!isset($user_id)){
          <h3>about off-grid</h3>
          <p>Welcome to "OFF-GRID" – your go-to destination for cutting-edge streetwear. Embrace individuality with our curated collection, blending urban grit with authentic style. From graphic tees to edgy accessories, each piece tells a story.</p>
          <p>Dive into a world where quality meets rebellion, and street style is redefined. Join the movement, explore OFF-GRID – where fashion meets the streets. Unleash your style with us.</p>
-         <a href="contact.php" class="btn">Message Us</a>
+         <a href="contact.php" class="btn">Contact Us</a>
       </div>
 
    </div>
